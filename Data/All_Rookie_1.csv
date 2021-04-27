@@ -1,0 +1,297 @@
+YEAR,PLAYER,POS,TEAM,FG%,PPG,RPG,APG,BLKPG
+2020,Kendrick Nunn,G,Miami Heat,0.439,15.3,2.7,3.3,0.2
+2020,Eric Paschall,F,Golden State Warriors,0.497,14,4.6,2.1,0.2
+2020,Brandon Clarke,F,Memphis Grizzlies,0.618,12.1,5.9,1.4,0.8
+2020,Ja Morant,G,Memphis Grizzlies,0.477,17.8,3.9,7.3,0.3
+2020,Zion Williamson,F,New Orleans Pelicans,0.583,22.5,6.3,2.1,0.4
+2019,Luka Doncic,G,Dallas Mavericks,0.427,21.2,7.8,6,0.3
+2019,Marvin Bagley III,F,Sacramento Kings,0.504,14.9,7.6,1,1
+2019,Trae Young,G,Atlanta Hawks,0.418,19.1,3.7,8.1,0.2
+2019,Jaren Jackson Jr.,F,Memphis Grizzlies,0.506,13.8,4.7,1.1,1.4
+2019,Deandre Ayton,C,Phoenix Suns,0.585,16.3,10.3,1.8,0.9
+2018,Kyle Kuzma,F,Los Angeles Lakers,0.45,16.1,6.3,1.8,0.4
+2018,Ben Simmons,F,Philadelphia 76ers,0.545,15.8,8.1,8.2,0.9
+2018,Donovan Mitchell,G,Utah Jazz,0.437,20.5,3.7,3.7,0.3
+2018,Jayson Tatum,F,Boston Celtics,0.475,13.9,5,1.6,0.7
+2018,Lauri Markkanen,F,Chicago Bulls,0.434,15.2,7.5,1.2,0.6
+2017,Malcolm Brogdon,G,Milwaukee Bucks,0.457,10.2,2.8,4.2,0.2
+2017,Buddy Hield,G,Sacramento Kings,0.426,10.6,3.3,1.5,0.1
+2017,Willy Hernangomez,C,New York Knicks,0.529,8.2,7,1.3,0.5
+2017,Dario Saric,F,Philadelphia 76ers,0.411,12.8,6.3,2.2,0.4
+2017,Joel Embiid,C,Philadelphia 76ers,0.466,20.2,7.8,2.1,2.5
+2016,Kristaps Porzingis,F,New York Knicks,0.421,14.3,7.3,1.3,1.9
+2016,Nikola Jokic,C,Denver Nuggets,0.512,10,7,2.4,0.6
+2016,Jahlil Okafor,C,Philadelphia 76ers,0.508,17.5,7,1.2,1.2
+2016,Devin Booker,G,Phoenix Suns,0.423,13.8,2.5,2.6,0.3
+2016,Karl-Anthony Towns,F,Minnesota Timberwolves,0.542,18.3,10.5,2,1.7
+2015,Nikola Mirotic,F,Chicago Bulls,0.405,10.2,4.9,1.2,0.7
+2015,Jordan Clarkson,G,Los Angeles Lakers,0.448,11.9,3.2,3.5,0.2
+2015,Elfrid Payton,G,Orlando Magic,0.425,8.9,4.3,6.5,0.2
+2015,Nerlens Noel,C,Philadelphia 76ers,0.462,9.9,8.1,1.7,1.9
+2015,Andrew Wiggins,F,Minnesota Timberwolves,0.437,16.9,4.6,2.1,0.6
+2014,Mason Plumlee,F,Brooklyn Nets,0.659,7.4,4.4,0.9,0.8
+2014,Victor Oladipo,G,Orlando Magic,0.419,13.8,4.1,4.1,0.5
+2014,Tim Hardaway Jr.,G,New York Knicks,0.428,10.2,1.5,0.8,0.1
+2014,Trey Burke,G,Utah Jazz,0.38,12.8,3,5.7,0.1
+2014,Michael Carter-Williams,G,Philadelphia 76ers,0.405,16.7,6.2,6.3,0.6
+2013,Harrison Barnes,F,Golden State Warriors,0.439,9.2,4.1,1.2,0.2
+2013,Bradley Beal,G,Washington Wizards,0.41,13.9,3.8,2.4,0.5
+2013,Anthony Davis,F,New Orleans Hornets,0.516,13.5,8.2,1,1.8
+2013,Damian Lillard,G,Portland Trail Blazers,0.429,19,3.1,6.5,0.2
+2013,Dion Waiters,G,Cleveland Cavaliers,0.412,14.7,2.4,3,0.3
+2012,Ricky Rubio,G,Minnesota Timberwolves,0.357,10.6,4.2,8.2,0.2
+2012,Kenneth Faried,F,Denver Nuggets,0.586,10.2,7.7,0.8,1
+2012,Kyrie Irving,G,Cleveland Cavaliers,0.469,18.5,3.7,5.4,0.4
+2012,Brandon Knight,G,Detroit Pistons,0.415,12.8,3.2,3.8,0.2
+2012,Kawhi Leonard,F,San Antonio Spurs,0.493,7.9,5.1,1.1,0.4
+2012,Iman Shumpert,G,New York Knicks,0.401,9.5,3.2,2.8,0.1
+2012,Klay Thompson,G,Golden State Warriors,0.443,12.5,2.4,2,0.3
+2011,Blake Griffin,PF,LA Clippers,0.506,22.5,12.1,3.8,0.5
+2011,John Wall,PG,Washington Wizards,0.409,16.4,4.6,8.3,0.5
+2011,DeMarcus Cousins,C,Sacramento Kings,0.43,14.1,8.6,2.5,0.8
+2011,Landry Fields,SG,New York Knicks,0.497,9.7,6.4,1.9,0.2
+2011,Gary Neal,PG,San Antonio Spurs,0.451,9.8,2.5,1.2,0.1
+2010,Darren Collison,G,New Orleans Hornets,0.477,12.4,2.5,5.7,0.1
+2010,Stephen Curry,PG,Golden State Warriors,0.462,17.5,4.5,5.9,0.2
+2010,Tyreke Evans,G,Sacramento Kings,0.458,20.1,5.3,5.8,0.4
+2010,Taj Gibson,C,Chicago Bulls,0.494,9,7.5,0.9,1.3
+2010,Brandon Jennings,G,Milwaukee Bucks,0.371,15.5,3.4,5.7,0.2
+2009,Michael Beasley,F,Miami Heat,0.472,13.9,5.4,1,0.5
+2009,Brook Lopez,C,New Jersey Nets,0.531,13,8.1,1,1.8
+2009,O.J. Mayo,SG,Memphis Grizzlies,0.438,18.5,3.8,3.2,0.2
+2009,Derrick Rose,PG,Chicago Bulls,0.475,16.8,3.9,6.3,0.2
+2009,Russell Westbrook,PG,Oklahoma City Thunder,0.398,15.3,4.9,5.3,0.2
+2008,Luis Scola,F,Houston Rockets,0.515,10.3,6.4,1.3,0.2
+2008,Kevin Durant,PF,Seattle SuperSonics,0.43,20.3,4.4,2.4,0.9
+2008,Jeff Green,PF,Seattle SuperSonics,0.427,10.5,4.7,1.5,0.6
+2008,Al Horford,C,Atlanta Hawks,0.498,10.1,9.7,1.5,0.9
+2008,Al Thornton,SF,LA Clippers,0.429,12.7,4.5,1.2,0.5
+2007,LaMarcus Aldridge,C,Portland Trail Blazers,0.503,9,5,0.4,1.2
+2007,Andrea Bargnani,C,Toronto Raptors,0.427,11.6,3.9,0.8,0.8
+2007,Randy Foye,SG,Minnesota Timberwolves,0.434,10.1,2.7,2.8,0.3
+2007,Rudy Gay,SF,Memphis Grizzlies,0.422,10.8,4.5,1.3,0.9
+2007,Brandon Roy,SG,Portland Trail Blazers,0.456,16.8,4.4,4,0.2
+2007,Jorge Garbajosa,PF,Toronto Raptors,0.42,8.5,4.9,1.9,0.2
+2006,Andrew Bogut,C,Milwaukee Bucks,0.533,9.4,7,2.3,0.8
+2006,Channing Frye,F,New York Knicks,0.477,12.3,5.8,0.8,0.7
+2006,Chris Paul,PG,NO/Oklahoma City Hornets,0.43,16.1,5.1,7.8,0.1
+2006,Charlie Villanueva,PF,Toronto Raptors,0.463,13,6.4,1.1,0.8
+2006,Deron Williams,PG,Utah Jazz,0.421,10.8,2.4,4.5,0.2
+2005,Ben Gordon,SG,Chicago Bulls,0.411,15.1,2.6,2,0.1
+2005,Dwight Howard,C,Orlando Magic,0.52,12,10,0.9,1.7
+2005,Andre Iguodala,SF,Philadelphia 76ers,0.493,9,5.7,3,0.6
+2005,Emeka Okafor,C,Charlotte Bobcats,0.447,15.1,10.9,0.9,1.7
+2005,Luol Deng,F,Chicago Bulls,0.434,11.7,5.3,2.2,0.4
+2004,LeBron James,SF,Cleveland Cavaliers,0.417,20.9,5.5,5.9,0.7
+2004,Carmelo Anthony,PF,Denver Nuggets,0.426,21,6.1,2.8,0.5
+2004,Chris Bosh,PF,Toronto Raptors,0.459,11.5,7.4,1,1.4
+2004,Kirk Hinrich,SG,Chicago Bulls,0.386,12,3.4,6.8,0.3
+2004,Dwyane Wade,G,Miami Heat,0.465,16.2,4,4.5,0.6
+2003,Caron Butler,SF,Miami Heat,0.416,15.4,5.1,2.7,0.4
+2003,Drew Gooden,PF,Orlando Magic,0.457,12.5,6.5,1.2,0.5
+2003,Nene Hilario,C,Denver Nuggets,0.519,10.5,6.1,1.9,0.8
+2003,Yao Ming,C,Houston Rockets,0.498,13.5,8.2,1.7,1.8
+2003,Amar'e Stoudemire,C,Phoenix Suns,0.472,13.5,8.8,1,1.1
+2002,Andrei Kirilenko,SF,Utah Jazz,0.45,10.7,4.9,1.1,1.9
+2002,Shane Battier,SF,Memphis Grizzlies,0.429,14.4,5.4,2.8,1
+2002,Pau Gasol,PF,Memphis Grizzlies,0.518,17.6,8.9,2.7,2.1
+2002,Tony Parker,G,San Antonio Spurs,0.419,9.2,2.6,4.3,0.1
+2002,Jason Richardson,SG,Golden State Warriors,0.426,14.4,4.3,3,0.4
+2001,Marc Jackson,PF,Golden State Warriors,0.467,13.2,7.5,1.2,0.6
+2001,Kenyon Martin,PF,New Jersey Nets,0.445,12,7.4,1.9,1.7
+2001,Darius Miles,SF,Los Angeles Clippers,0.505,9.4,5.9,1.2,1.5
+2001,Mike Miller,SG,Orlando Magic,0.435,11.9,4,1.7,0.2
+2001,Morris Peterson,SG,Toronto Raptors,0.431,9.3,3.2,1.3,0.3
+2000,Elton Brand,PF,Chicago Bulls,0.482,20.1,10,1.9,1.6
+2000,Steve Francis,PG,Houston Rockets,0.445,18,5.3,6.6,0.4
+2000,Andre Miller,PG,Cleveland Cavaliers,0.449,11.1,3.4,5.8,0.2
+2000,Lamar Odom,PF,Los Angeles Clippers,0.438,16.6,7.8,4.2,1.3
+2000,Wally Szczerbiak,SG,Minnesota Timberwolves,0.511,11.6,3.7,2.8,0.3
+1999,Mike Bibby,PG,Vancouver Grizzlies,0.43,13.2,2.7,6.5,0.1
+1999,Vince Carter,G,Toronto Raptors,0.45,18.3,5.7,3,1.5
+1999,Matt Harpring,SF,Orlando Magic,0.463,8.2,4.3,0.9,0.1
+1999,Paul Pierce,SF,Boston Celtics,0.439,16.5,6.4,2.4,1
+1999,Jason Williams,PG,Sacramento Kings,0.374,12.8,3.1,6,0
+1998,Tim Duncan,C,San Antonio Spurs,0.549,21.1,11.9,2.7,2.5
+1998,Zydrunas Ilgauskas,C,Cleveland Cavaliers,0.518,13.9,8.8,0.9,1.6
+1998,Brevin Knight,PG,Cleveland Cavaliers,0.441,9,3.2,8.2,0.2
+1998,Ron Mercer,SG,Boston Celtics,0.45,15.3,3.5,2.2,0.2
+1998,Keith Van Horn,PF,New Jersey Nets,0.426,19.7,6.6,1.7,0.4
+1997,Shareef Abdur-Rahim,PF,Vancouver Grizzlies,0.453,18.7,6.9,2.2,1
+1997,Marcus Camby,C,Toronto Raptors,0.482,14.8,6.3,1.5,2.1
+1997,Allen Iverson,SG,Philadelphia 76ers,0.416,23.5,4.1,7.5,0.3
+1997,Stephon Marbury,PG,Minnesota Timberwolves,0.408,15.8,2.7,7.8,0.3
+1997,Antoine Walker,PF,Boston Celtics,0.425,17.5,9,3.2,0.6
+1996,Michael Finley,SG,Phoenix Suns,0.476,15,4.6,3.5,0.4
+1996,Antonio McDyess,PF,Denver Nuggets,0.485,13.4,7.5,1,1.5
+1996,Arvydas Sabonis,C,Portland Trail Blazers,0.545,14.5,8.1,1.8,1.1
+1996,Joe Smith,PF,Golden State Warriors,0.458,15.3,8.7,1,1.6
+1996,Jerry Stackhouse,SF,Philadelphia 76ers,0.414,19.2,3.7,3.9,1.1
+1996,Damon Stoudamire,PG,Toronto Raptors,No stats available.,,,,
+1995,Brian Grant,PF,Sacramento Kings,0.511,13.2,7.5,1.2,1.5
+1995,Grant Hill,SF,Detroit Pistons,0.477,19.9,6.4,5,0.9
+1995,Eddie Jones,SG,Los Angeles Lakers,0.46,14,3.9,2,0.6
+1995,Jason Kidd,PG,Dallas Mavericks,0.385,11.7,5.4,7.7,0.3
+1995,Glenn Robinson,SF,Milwaukee Bucks,0.451,21.9,6.4,2.5,0.3
+1994,Vin Baker,PF,Milwaukee Bucks,0.501,13.5,7.6,2,1.4
+1994,Anfernee Hardaway,SF,Orlando Magic,0.466,16,5.4,6.6,0.6
+1994,Jamal Mashburn,SF,Dallas Mavericks,0.406,19.2,4.5,3.4,0.2
+1994,Isaiah Rider,G,Minnesota Timberwolves,0.468,16.6,4,2.6,0.4
+1994,Chris Webber,C,Golden State Warriors,0.552,17.5,9.1,3.6,2.2
+1993,LaPhonso Ellis,F,Denver Nuggets,0.504,14.7,9.1,1.8,1.4
+1993,Tom Gugliotta,PF,Washington Bullets,0.426,14.7,9.6,3.8,0.4
+1993,Christian Laettner,PF,Minnesota Timberwolves,0.474,18.2,8.7,2.8,1
+1993,Alonzo Mourning,C,Charlotte Hornets,0.511,21,10.3,1,3.5
+1993,Shaquille O'Neal,C,Orlando Magic,0.562,23.4,13.9,1.9,3.5
+1992,Stacey Augmon,SF,Atlanta Hawks,0.489,13.3,5.1,2.5,0.3
+1992,Larry Johnson,F,Charlotte Hornets,0.49,19.2,11,3.6,0.6
+1992,Dikembe Mutombo,C,Denver Nuggets,0.493,16.6,12.3,2.2,3
+1992,Billy Owens,F,Golden State Warriors,0.525,14.3,8,2.4,0.8
+1992,Steve Smith,SG,Miami Heat,0.454,12,3.1,4.6,0.3
+1991,Dee Brown,G,Boston Celtics,0.464,8.7,2.2,4.2,0.2
+1991,Derrick Coleman,PF,New Jersey Nets,0.467,18.4,10.3,2.2,1.3
+1991,Kendall Gill,SF,Charlotte Hornets,0.45,11,3.2,3.7,0.5
+1991,Dennis Scott,F,Orlando Magic,0.425,15.7,2.9,1.6,0.3
+1991,Lionel Simmons,F,Sacramento Kings,0.422,18,8.8,4,1.1
+1990,Vlade Divac,C,Los Angeles Lakers,0.499,8.5,6.2,0.9,1.4
+1990,Sherman Douglas,G,Miami Heat,0.494,14.3,2.5,7.6,0.1
+1990,Tim Hardaway,G,Golden State Warriors,0.471,14.7,3.9,8.7,0.2
+1990,David Robinson,C,San Antonio Spurs,0.531,24.3,12,2,3.9
+1990,Pooh Richardson,G,Minnesota Timberwolves,0.461,11.4,2.6,6.8,0.3
+1989,Hersey Hawkins,G,Philadelphia 76ers,0.455,15.1,2.8,3,0.5
+1989,Mitch Richmond,G,Golden State Warriors,0.468,22,5.9,4.2,0.2
+1989,Rik Smits,C,Indiana Pacers,0.517,11.7,6.1,0.9,1.8
+1989,Charles Smith,F,Los Angeles Clippers,0.495,16.3,6.5,1.5,1.3
+1989,Willie Anderson,G,San Antonio Spurs,0.498,18.6,5.1,4.6,0.8
+1988,Armon Gilliam,F,Phoenix Suns,0.475,14.8,7.9,1.3,0.5
+1988,Mark Jackson,PG,New York Knicks,0.432,13.6,4.8,10.6,0.1
+1988,Derrick McKey,F,Seattle SuperSonics,0.491,8.5,4,1.3,0.8
+1988,Kenny Smith,G,Sacramento Kings,0.477,13.8,2.3,7.1,0.1
+1988,Greg Anderson,C,San Antonio Spurs,0.501,11.7,6.3,1,1.5
+1987,Ron Harper,G,Cleveland Cavaliers,0.455,22.9,4.8,4.8,1
+1987,Chuck Person,F,Indiana Pacers,0.468,18.8,8.3,3.6,0.2
+1987,John Williams,F,Washington Bullets,0.485,14.6,7.9,1.9,2.1
+1987,Roy Tarpley,C,Dallas Mavericks,0.467,7.5,7.1,0.7,1.1
+1987,Brad Daugherty,C,Cleveland Cavaliers,0.538,15.7,8.1,3.8,0.8
+1986,Patrick Ewing,C,New York Knicks,0.474,20,9,2,2.1
+1986,Karl Malone,PF,Utah Jazz,0.496,14.9,8.9,2.9,0.5
+1986,Charles Oakley,PF,Chicago Bulls,0.519,9.6,8.6,1.7,0.4
+1986,Joe Dumars,G,Detroit Pistons,0.481,9.4,1.5,4.8,0.1
+1986,Xavier Mcdaniel,F,Seattle SuperSonics,0.49,17.1,8,2.4,0.5
+1985,Charles Barkley,F,Philadelphia 76ers,0.545,14,8.6,1.9,1
+1985,Hakeem Olajuwon,C,Houston Rockets,0.538,20.6,11.9,1.4,2.7
+1985,Sam Perkins,C,Dallas Mavericks,0.471,11,7.4,1.6,0.8
+1985,Michael Jordan,G,Chicago Bulls,0.515,28.2,6.5,5.9,0.8
+1985,Sam Bowie,C,Portland Trail Blazers,0.537,10,8.6,2.8,2.7
+1984,Byron Scott,G,Los Angeles Lakers,No stats available.,,,,
+1984,Thurl Bailey,F,Utah Jazz,No stats available.,,,,
+1984,Jeff Malone,G,Washington Bullets,No stats available.,,,,
+1984,Ralph Sampson,,Houston Rockets,No stats available.,,,,
+1984,Stephen Stipanovich,,Indiana Pacers,No stats available.,,,,
+1984,Darrell Walker,,New York Knicks,No stats available.,,,,
+1983,Terry Cummings,F,San Diego Clippers,No stats available.,,,,
+1983,Dominique Wilkins,F,Atlanta Hawks,No stats available.,,,,
+1983,James Worthy,F,Los Angeles Lakers,No stats available.,,,,
+1983,Quintin Dailey,,Chicago Bulls,No stats available.,,,,
+1983,Clark Kellogg,,Indiana Pacers,No stats available.,,,,
+1982,Isiah Thomas,G,Detroit Pistons,No stats available.,,,,
+1982,Buck Williams,F,New Jersey Nets,No stats available.,,,,
+1982,Jeff Ruland,,Washington Bullets,No stats available.,,,,
+1982,Raymond Townsend,,Detroit Pistons,No stats available.,,,,
+1982,Jay Vincent,,Dallas Mavericks,No stats available.,,,,
+1981,Kevin McHale,,Boston Celtics,No stats available.,,,,
+1981,Joseph Carroll,,Golden State Warriors,No stats available.,,,,
+1981,Darrell Griffith,,Utah Jazz,No stats available.,,,,
+1981,Kelvin Ransey,,Portland Trail Blazers,No stats available.,,,,
+1981,Larry Smith,,Golden State Warriors,No stats available.,,,,
+1980,Magic Johnson,F,Los Angeles Lakers,No stats available.,,,,
+1980,Larry Bird,,Boston Celtics,No stats available.,,,,
+1980,Bill Cartwright,C,New York Knicks,No stats available.,,,,
+1980,David Greenwood,,Chicago Bulls,No stats available.,,,,
+1980,Calvin Natt,,Portland Trail Blazers,No stats available.,,,,
+1979,Leon Brown,,Portland Trail Blazers,No stats available.,,,,
+1979,Phil Ford,G,Kansas City Kings,No stats available.,,,,
+1979,Reggie Theus,,Chicago Bulls,No stats available.,,,,
+1979,Mychal Thompson,,Portland Trail Blazers,No stats available.,,,,
+1979,Terry Tyler,,Detroit Pistons,No stats available.,,,,
+1978,Walt Davis,FC,Phoenix Suns,No stats available.,,,,
+1978,Marques Johnson,,Milwaukee Bucks,No stats available.,,,,
+1978,Bernard King,,New Jersey Nets,No stats available.,,,,
+1978,Norman Nixon,,Los Angeles Lakers,No stats available.,,,,
+1978,Jack Sikma,,Seattle SuperSonics,No stats available.,,,,
+1977,Adrian Dantley,,Buffalo Braves,No stats available.,,,,
+1977,Mitch Kupchak,,Washington Bullets,No stats available.,,,,
+1977,Kevin Loder,,Phoenix Suns,No stats available.,,,,
+1977,John Lucas,,Houston Rockets,No stats available.,,,,
+1977,Scott May,,Chicago Bulls,No stats available.,,,,
+1976,Alvan Adams,,Phoenix Suns,No stats available.,,,,
+1976,Lionel Hollins,,Portland Trail Blazers,No stats available.,,,,
+1976,Joe Meriweather,,Houston Rockets,No stats available.,,,,
+1976,John Shumate,FC,Buffalo Braves,No stats available.,,,,
+1976,Gus Williams,,Golden State Warriors,No stats available.,,,,
+1975,Tom Burleson,C,Seattle SuperSonics,No stats available.,,,,
+1975,John Drew,,Atlanta Hawks,No stats available.,,,,
+1975,Scott Wedman,GF,Kansas City-Omaha Kings,No stats available.,,,,
+1975,Jamaal Wilkes,,Golden State Warriors,No stats available.,,,,
+1975,Brian Winters,,Los Angeles Lakers,No stats available.,,,,
+1974,Michael Bantom,,Phoenix Suns,No stats available.,,,,
+1974,Ron Behagen,FC,Kansas City-Omaha Kings,No stats available.,,,,
+1974,John Brown,,Atlanta Hawks,No stats available.,,,,
+1974,Ernie Digregorio,G,Buffalo Braves,No stats available.,,,,
+1974,Nick Weatherspoon,F,Capital Bullets,No stats available.,,,,
+1973,Fred Boyd,,Philadelphia 76ers,No stats available.,,,,
+1973,Dwight Davis,,Cleveland Cavaliers,No stats available.,,,,
+1973,Bob McAdoo,,Buffalo Braves,No stats available.,,,,
+1973,Lloyd Neal,,Portland Trail Blazers,No stats available.,,,,
+1973,James Price,,Los Angeles Lakers,No stats available.,,,,
+1972,Austin Carr,,Cleveland Cavaliers,No stats available.,,,,
+1972,Phil Chenier,SG,Baltimore Bullets,No stats available.,,,,
+1972,Clifford Ray,,Chicago Bulls,No stats available.,,,,
+1972,Elmore Smith,C,Buffalo Braves,No stats available.,,,,
+1972,Sidney Wicks,,Portland Trail Blazers,No stats available.,,,,
+1971,David Cowens,,Boston Celtics,No stats available.,,,,
+1971,Peter Maravich,,Atlanta Hawks,No stats available.,,,,
+1971,Bob Lanier,,Detroit Pistons,No stats available.,,,,
+1971,Calvin Murphy,,San Diego Rockets,No stats available.,,,,
+1971,Geoff Petrie,,Portland Trail Blazers,No stats available.,,,,
+1970,Dean Garrett,C,Los Angeles Lakers,No stats available.,,,,
+1970,Joe White,C,Boston Celtics,No stats available.,,,,
+1970,Kareem Abdul-Jabbar,,Milwaukee Bucks,No stats available.,,,,
+1970,Bob Dandridge,GF,Milwaukee Bucks,No stats available.,,,,
+1970,Lawrence Hill,,Baltimore Bullets,No stats available.,,,,
+1969,Elvin Hayes,,San Diego Rockets,No stats available.,,,,
+1969,Westley Unseld,,Baltimore Bullets,No stats available.,,,,
+1969,Gary Gregor,,Phoenix Suns,No stats available.,,,,
+1969,Garfield Heard,,Seattle SuperSonics,No stats available.,,,,
+1969,Douglas Holcomb,,Los Angeles Lakers,No stats available.,,,,
+1968,Walter Frazier,,New York Knicks,No stats available.,,,,
+1968,Earl Monroe,F,Baltimore Bullets,No stats available.,,,,
+1968,Phil Jackson,,New York Knicks,No stats available.,,,,
+1968,John Rudd,,Seattle SuperSonics,No stats available.,,,,
+1968,Richard Triptow,,Seattle SuperSonics,No stats available.,,,,
+1967,David Bing,,Detroit Pistons,No stats available.,,,,
+1967,Myron Jackson,,St. Louis Hawks,No stats available.,,,,
+1967,Jack Marin,GF,Baltimore Bullets,No stats available.,,,,
+1967,Erwin Mueller,,Chicago Bulls,No stats available.,,,,
+1967,Cazzie Russell,,New York Knicks,No stats available.,,,,
+1966,Rick Barry,,San Francisco Warriors,No stats available.,,,,
+1966,William Cunningham,,Philadelphia 76ers,No stats available.,,,,
+1966,Fred Hetzel,FC,San Francisco Warriors,No stats available.,,,,
+1966,Hal Uplinger,G,New York Knicks,No stats available.,,,,
+1966,Thomas Van Arsdale,,Detroit Pistons,No stats available.,,,,
+1965,Willis Reed,,New York Knicks,No stats available.,,,,
+1965,Ralph Beard,,New York Knicks,No stats available.,,,,
+1965,Joe Caldwell,,Detroit Pistons,No stats available.,,,,
+1965,Luke Jackson,F,Philadelphia 76ers,No stats available.,,,,
+1965,Wali Jones,,Baltimore Bullets,No stats available.,,,,
+1965,Howard Komives,,New York Knicks,No stats available.,,,,
+1964,Jerry Lucas,C,Cincinnati Royals,No stats available.,,,,
+1964,Nathaniel Thurmond,,San Francisco Warriors,No stats available.,,,,
+1964,Arthur Heyman,,New York Knicks,No stats available.,,,,
+1964,Gus Johnson,FC,Baltimore Bullets,No stats available.,,,,
+1964,Rod Thorn,,Baltimore Bullets,No stats available.,,,,
+1963,John Havlicek,,Boston Celtics,No stats available.,,,,
+1963,David DeBusschere,,Detroit Pistons,No stats available.,,,,
+1963,Zelmo Beaty,,St. Louis Hawks,No stats available.,,,,
+1963,Terry Dischinger,,Chicago Zephyrs,No stats available.,,,,
+1963,Milt Wagner,GF,Syracuse Nationals,No stats available.,,,,
