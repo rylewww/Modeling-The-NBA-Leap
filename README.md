@@ -34,5 +34,32 @@ The Random Forest model produced the best results with an Accuracy score og 94.5
 
 <p float="left">
   <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/RF_CM.png" width="450" height="400" />
-  <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/feature_importance.png" width="450" height="400" />
+  <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/feature_importance%20copy.png" width="450" height="400" />
   </p>
+
+## Conclusion
+Our Random Forest model performed the best per our business question of identifying and explaining which NBA players were expected to reach All NBA levels in seasons 4 through 6. It scored the highest precision score, meaning that when it identifies a player to be 'making the leap' its correct 75% of the time. It displays the importance a players points total and 3rd season VORP rating relates to the probability they will make an All NBA team in the next three seasons.
+
+## Next Steps
+There's plenty of room for improvement in our model, currently it has too high of standards to which it classifies future All NBA players. In the future I hope to add the following:
+* Implement additional resampling techniques to better combat class imbalance
+* Pull in additional categorial data such as draft pick positions and team win/loss records
+* Look into generational trends; did All NBA players look statistically different in the 80's vs 90's
+* Expanding into a multiclass classification model - breaking down All NBA teams or classifying All NBA vs All Defense
+
+## Sources
+* Seasonal & Advanced statistics webscraped from Stathead.com
+* Team Awards such as All NBA/All Defense downloaded from ESPN.com
+
+## Repository Structure
+```
+├── Data
+├── Images
+├── Notebooks
+│   └── Webscrape.ipynb
+│   └── Data_Compiling.ipynb
+│   └── EDA.ipynb
+│   └── Modeling.ipynb
+├── README.md
+├── Modeling_The_Leap.ipynb
+└── Modeling_The_NBA_leap.pdf
