@@ -14,6 +14,13 @@ I used Selenium webdriver to scrape both 'standard' and 'advanced' seasonal stat
 
 Final Data Set was subset to players who's rookie year was 1977 and later, advanced statistics such as Win-Share and VORP were not tracked prior to 1977. Furthermore, qualified players need to play a minumum of six years in the league as our target variable is All NBA selections in seasons 4 through 6. This left us with the following population breakdown:
 
-<insert bar chart>
+<img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/target_barchart.png" alt= "NBA HOF Image" width="600" height="400"> 
   
-  
+ ## Exploratory Data Analysis
+ Once the data was properly formatted and cleaned, I began to explore and investigate which features correlated the most with our 'All NBA 4-6' target variable. It became clear that future All NBA players differentiate themselves from the rest of the league with statistic totals in the first three years.
+ 
+<img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/nba_pair_plt_basic.png" alt= "NBA HOF Image" width="800" height="600"> 
+
+By NBA players 3rd season, advanced statistics such as 'Win-Shares' (An estimate of the number of wins contributed by a player*), 'Player Efficiency Rating' (A measure of per-minute production*), and 'Value over Replacement Player (A box score estimate of the points per 100 TEAM possessions that a player contributed above a replacement-level player*). 
+
+<img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/3D_plot.png" alt= "NBA HOF Image" width="800" height="600">
