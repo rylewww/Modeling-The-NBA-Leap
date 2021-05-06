@@ -17,10 +17,22 @@ Final Data Set was subset to players who's rookie year was 1977 and later, advan
 <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/target_barchart.png" alt= "NBA HOF Image" width="600" height="400"> 
   
  ## Exploratory Data Analysis
- Once the data was properly formatted and cleaned, I began to explore and investigate which features correlated the most with our 'All NBA 4-6' target variable. It became clear that future All NBA players differentiate themselves from the rest of the league with statistic totals in the first three years.
+Once the data was properly formatted and cleaned, I began to explore and investigate which features correlated the most with our 'All NBA 4-6' target variable. It became clear that future All NBA players differentiate themselves from the rest of the league with statistic totals in the first three years.
  
 <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/nba_pair_plt_basic.png" alt= "NBA HOF Image" width="800" height="600"> 
 
 By NBA players 3rd season, advanced statistics such as 'Win-Shares' (An estimate of the number of wins contributed by a player*), 'Player Efficiency Rating' (A measure of per-minute production*), and 'Value over Replacement Player (A box score estimate of the points per 100 TEAM possessions that a player contributed above a replacement-level player*). 
 
 <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/3D_plot.png" alt= "NBA HOF Image" width="800" height="600">
+
+## Modeling Process
+After EDA and feature engineering processes it was time to begin our modeling process. I employed r4ecursive feature elimination to reduce our total number of features down from over 200 to 13. Then, in efforts to best understand what statistics highlight young NBA players potential growth to All NBA stars, the models I focused on were all interpretable. Additionally, they were all grid-searched to best tune our hyperparameters and scored based on the 'precision' metric to best reduce our false positives. 
+
+<img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/models.png" alt= "NBA HOF Image" width="600" height="300">
+
+The Random Forest model produced the best results with an Accuracy score og 94.5% and a Precision score of 75%. Below shows the associated confusion matrix and which features the model found most important when identifying future All NBA players.
+
+<p float="left">
+  <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/RF_CM.png" width="450" height="400" />
+  <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/feature_importance.png" width="450" height="400" />
+  </p>
