@@ -3,7 +3,7 @@
 Author: Ryan Lewis
 
 ## Overview
-This project applies machine learning classification to predict whether NBA players will make 'All NBA' teams in seasons 4 - 6, based upon thier first 3 season statistics. The structure of our model will be based upon inference, as the goal is to educate front offices on what player statistics correlate the most with future NBA stars. The model will focus on the 'precision' metric as we are aiming to minimize our false positives (predicting an NBA star when the player is not.)
+This project applies machine learning classification to predict whether NBA players will make 'All NBA' teams in seasons 4 - 6, based upon thier first 3 seasons in the league. The structure of our model will be based upon inference, as the goal is to educate front offices on what player statistics correlate the most with future NBA stars. The model will focus on the 'precision' metric as we are aiming to minimize our false positives (predicting an NBA star when the player is not.)
 
 ## Business Problem
 Each year 60 NBA players are drafted into the league and many others are signed as non-drafted free agents. Dependent on what round players are drafted in, rookie contracts can stretch from 2 to 4 years, with team options in the 3rd and 4th year. Its imperative for NBA front offices to be able identify if their recently drafted players will make the leap from productive NBA player to All NBA star. 
@@ -26,11 +26,11 @@ By NBA players 3rd season, advanced statistics such as 'Win-Shares' (An estimate
 <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/3D_plot.png" alt= "NBA HOF Image" width="800" height="600">
 
 ## Modeling Process
-After EDA and feature engineering processes it was time to begin our modeling process. I employed r4ecursive feature elimination to reduce our total number of features down from over 200 to 13. Then, in efforts to best understand what statistics highlight young NBA players potential growth to All NBA stars, the models I focused on were all interpretable. Additionally, they were all grid-searched to best tune our hyperparameters and scored based on the 'precision' metric to best reduce our false positives. 
+After EDA and feature engineering processes it was time to begin our modeling process. I employed recursive feature elimination to reduce our total number of features down from over 200 to 13. Then, in efforts to best understand what statistics highlight young NBA players potential growth to All NBA stars, the models I focused on were all interpretable. Additionally, they were all grid-searched to best tune our hyperparameters and scored based on the 'precision' metric to best reduce our false positives. 
 
 <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/models.png" alt= "NBA HOF Image" width="600" height="300">
 
-The Random Forest model produced the best results with an Accuracy score og 94.5% and a Precision score of 75%. Below shows the associated confusion matrix and which features the model found most important when identifying future All NBA players.
+The Random Forest model produced the best results with an Accuracy score of 94.5% and a Precision score of 75%. Below shows the associated confusion matrix and which features the model found most important when identifying future All NBA players.
 
 <p float="left">
   <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/RF_CM.png" width="450" height="400" />
@@ -48,8 +48,11 @@ There's plenty of room for improvement in our model, currently it has too high o
 * Expanding into a multiclass classification model - breaking down All NBA teams or classifying All NBA vs All Defense
 
 ## Sources
-* Seasonal & Advanced statistics webscraped from Stathead.com
-* Team Awards such as All NBA/All Defense downloaded from ESPN.com
+* Player statistics sourced via [StatHead](stathead.com)
+* Categorical statistics (e.i. All NBA, Rookie of the Year, ect) sourced via [ESPN](http://www.espn.com/nba/history/awards)
+
+## Insperation
+* Zach Lowe's Grantland artice [Look Before You Leap](https://grantland.com/features/the-young-nba-players-looking-make-leap-greatness)
 
 ## Repository Structure
 ```
