@@ -33,8 +33,8 @@ After EDA and feature engineering processes it was time to begin our modeling pr
 The Random Forest model produced the best results with an Accuracy score of 94.5% and a Precision score of 75%. Below shows the associated confusion matrix and which features the model found most important when identifying future All NBA players.
 
 <p float="left">
-  <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/RF_CM.png" width="450" height="400" />
-  <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/feature_importance%20copy.png" width="450" height="400" />
+  <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/RF_CM.png" width="400" height="350" />
+  <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/feature_importance%20copy.png" width="400" height="350" />
   </p>
 
 ## Conclusion
