@@ -24,7 +24,7 @@ Once the data was properly formatted and cleaned, I began to explore and investi
 
 By NBA players third season, advanced statistics such as 'Win-Shares' (An estimate of the number of wins contributed by a player*), 'Player Efficiency Rating' (A measure of per-minute production*), and 'Value over Replacement Player (A box score estimate of the points per 100 TEAM possessions that a player contributed above a replacement-level player*). 
 
-<img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/3D_plot.png" alt= "NBA HOF Image" width="800" height="600">
+<img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/Season%203%20Scatter_new.png" alt= "NBA HOF Image" width="800" height="600">
 
 ## Modeling Process
 After EDA and feature engineering processes it was time to begin our modeling process. I employed recursive feature elimination to reduce our total number of features down from over 200 to 13. Then, in efforts to best understand which statistics highlight young NBA players potential growth to All-NBA stars, the models I focused on were all interpretable. Additionally, they were all grid-searched to best tune our hyperparameters and scored based on the 'precision' metric to best reduce our false positives. 
