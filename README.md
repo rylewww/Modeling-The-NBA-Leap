@@ -1,5 +1,5 @@
 # Modeling the NBA Leap
-<img src="https://cdn.vox-cdn.com/thumbor/NsPkdWLpxyLkBTL2z2Ycjl0ogYY=/0x16:982x530/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13284645/Screen_Shot_2018_10_17_at_1.37.46_AM.png" alt= "NBA HOF Image" width="1000" height="500"> 
+<img src="https://cdn.vox-cdn.com/thumbor/NsPkdWLpxyLkBTL2z2Ycjl0ogYY=/0x16:982x530/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13284645/Screen_Shot_2018_10_17_at_1.37.46_AM.png" alt= "Jalen Brown Dunk" width="1000" height="500"> 
 Author: Ryan Lewis
 
 ## Overview
@@ -15,7 +15,9 @@ I used Selenium webdriver to scrape both 'standard' and 'advanced' seasonal stat
 
 Final Data Set was subset to players who's rookie year was 1977 and later, advanced statistics such as 'Win-Share' and 'Value Over Replacement Player' were not tracked prior to 1977. Furthermore, qualified players need to play a minumum of six years in the league as our target variable is All NBA selections in seasons four through six. This left us with the following population breakdown:
 
+<div align="center">
 <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/target_barchart.png" alt= "NBA HOF Image" width="800" height="500"> 
+</div>
 
 Only 7% of our qualified population of NBA players are selected to All-NBA teams in seasons four through six in thier careers. This demonstrates out elite of company these players are, highlighted by household names such as LeBron James, Michael Jordan, Larry Bird, ect.
   
@@ -26,12 +28,16 @@ Once the data was properly formatted and cleaned, I began to explore and investi
 
 By NBA players third season, advanced statistics such as 'Win-Shares' (An estimate of the number of wins contributed by a player*), 'Player Efficiency Rating' (A measure of per-minute production*), and 'Value over Replacement Player (A box score estimate of the points per 100 TEAM possessions that a player contributed above a replacement-level player*). 
 
+<div align="center">
 <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/Season%203%20Scatter_new.png" alt= "NBA HOF Image" width="800" height="600">
+</div>
 
-## Modeling Process
+## Modeling Process & Results
 After EDA and feature engineering processes it was time to begin our modeling process. I employed recursive feature elimination to reduce our total number of features down from over 200 to 13. Then, in efforts to best understand which statistics highlight young NBA players potential growth to All-NBA stars, the models I focused on were all interpretable. Additionally, they were all grid-searched to best tune our hyperparameters and scored based on the 'precision' metric to best reduce our false positives. 
 
-<img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/models.png" alt= "NBA HOF Image" width="600" height="300">
+<div align="center">
+<img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/modeling.jpeg" alt= "NBA HOF Image" width="600" height="300">
+</div>
 
 The Random Forest model produced the best results with an Accuracy score of 94.5% and a Precision score of 75%. Below shows the associated confusion matrix and which features the model found most important when identifying future All NBA players.
 
@@ -62,10 +68,11 @@ There's plenty of room for improvement in our model, currently it has too high o
 ├── Data
 ├── Images
 ├── Notebooks
-│   └── Webscrape.ipynb
-│   └── Data_Compiling.ipynb
-│   └── EDA.ipynb
-│   └── Modeling.ipynb
+│   └── 1_Webscrape.ipynb
+│   └── 2_Data_Compiling.ipynb
+│   └── 3_EDA.ipynb
+│   └── 4_Modeling.ipynb
+│   └── 5_YoY_Analysis.ipynb
 ├── README.md
 ├── Modeling_The_Leap.ipynb
 └── Modeling_The_NBA_leap.pdf
