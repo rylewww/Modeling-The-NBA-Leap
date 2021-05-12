@@ -29,7 +29,7 @@ Once the data was properly formatted and cleaned, I began to explore and investi
 By NBA players third season, advanced statistics such as 'Win-Shares' (An estimate of the number of wins contributed by a player*), 'Player Efficiency Rating' (A measure of per-minute production*), and 'Value over Replacement Player (A box score estimate of the points per 100 TEAM possessions that a player contributed above a replacement-level player*). 
 
 <div align="center">
-<img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/Season%203%20Scatter_new.png" alt= "NBA HOF Image" width="800" height="600">
+<img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/Season%203%20Scatter%20updated.png" alt= "NBA HOF Image" width="800" height="600">
 </div>
 
 ## Modeling Process & Results
