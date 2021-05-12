@@ -16,6 +16,8 @@ I used Selenium webdriver to scrape both 'standard' and 'advanced' seasonal stat
 Final Data Set was subset to players who's rookie year was 1977 and later, advanced statistics such as 'Win-Share' and 'Value Over Replacement Player' were not tracked prior to 1977. Furthermore, qualified players need to play a minumum of six years in the league as our target variable is All NBA selections in seasons four through six. This left us with the following population breakdown:
 
 <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/target_barchart.png" alt= "NBA HOF Image" width="800" height="500"> 
+
+Only 7% of our qualified population of NBA players are selected to All-NBA teams in seasons four through six in thier careers. This demonstrates out elite of company these players are, highlighted by household names such as LeBron James, Michael Jordan, Larry Bird, ect.
   
  ## Exploratory Data Analysis
 Once the data was properly formatted and cleaned, I began to explore and investigate which features correlated the most with our 'All-NBA 4-6' target variable. It became clear that future All-NBA players differentiate themselves from the rest of the league with statistic totals in the first three years.
