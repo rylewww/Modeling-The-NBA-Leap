@@ -33,7 +33,7 @@ By NBA players third season, advanced statistics such as 'Win-Shares' (An estima
 </div>
 
 ## Modeling Process & Results
-After EDA and feature engineering processes it was time to begin our modeling process. I employed recursive feature elimination to reduce our total number of features down from over 200 to 13. Then, in efforts to best understand which statistics highlight young NBA players potential growth to All-NBA stars, the models I focused on were all interpretable. Additionally, they were all grid-searched to best tune our hyperparameters and scored based on the 'precision' metric to best reduce our false positives. 
+After EDA and feature engineering processes it was time to begin our modeling process. I employed recursive feature elimination to reduce our total number of features down from over 200 to 6. Then, in efforts to best understand which statistics highlight young NBA players potential growth to All-NBA stars, the models I focused on were all interpretable. Additionally, they were all grid-searched to best tune our hyperparameters and scored based on the 'precision' metric to best reduce our false positives. 
 
 <div align="center">
 <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/modeling_final.jpeg" alt= "NBA HOF Image" width="600" height="300">
