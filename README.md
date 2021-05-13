@@ -36,14 +36,14 @@ By NBA players third season, advanced statistics such as 'Win-Shares' (An estima
 After EDA and feature engineering processes it was time to begin our modeling process. I employed recursive feature elimination to reduce our total number of features down from over 200 to 13. Then, in efforts to best understand which statistics highlight young NBA players potential growth to All-NBA stars, the models I focused on were all interpretable. Additionally, they were all grid-searched to best tune our hyperparameters and scored based on the 'precision' metric to best reduce our false positives. 
 
 <div align="center">
-<img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/modeling.jpeg" alt= "NBA HOF Image" width="600" height="300">
+<img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/modeling_final.jpeg" alt= "NBA HOF Image" width="600" height="300">
 </div>
 
 The Random Forest model produced the best results with an Accuracy score of 94.5% and a Precision score of 75%. Below shows the associated confusion matrix and which features the model found most important when identifying future All NBA players.
 
 <p float="left">
-  <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/RF_CM.png" width="400" height="300" />
-  <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/feature_importance%20copy.png" width="400" height="300" />
+  <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/Confusion_updated.png" width="400" height="300" />
+  <img src="https://github.com/rylewww/Modeling-The-NBA-Leap/blob/main/Images/Feature_Importance_final.png" width="400" height="300" />
   </p>
 
 ## Conclusion
